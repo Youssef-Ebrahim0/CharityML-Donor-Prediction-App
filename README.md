@@ -49,3 +49,4 @@ supervisedml_project/
 ## 👥 Contributors
 
 - [Youssef Ebrahim](https://github.com/Youssef-Ebrahim0)
+- Mohamed Khaled
